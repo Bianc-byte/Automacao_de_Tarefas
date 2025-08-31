@@ -1,0 +1,6 @@
+id,titulo,categoria,status,estimativa_horas,data_criacao,data_conclusao
+1,Criar repositório,Setup,Concluída,1,2025-08-25,2025-08-25
+2,Definir escopo,Planejamento,Concluída,2,2025-08-25,2025-08-26
+3,Modelar dados,Planejamento,Em Progresso,3,2025-08-27,
+4,Implementar leitura CSV,Dev,Pendente,2,2025-08-31,
+5,Gerar Excel,Dev,Pendente,2,2025-08-31,
